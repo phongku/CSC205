@@ -1,8 +1,9 @@
 apples
-peaches
 watermelon
 dran fruit
 pears
 kiwi
 cherries
 mango
+oranges
+bananas

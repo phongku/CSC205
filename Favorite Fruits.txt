@@ -5,5 +5,4 @@ pears
 kiwi
 cherries
 mango
-oranges
 bananas
